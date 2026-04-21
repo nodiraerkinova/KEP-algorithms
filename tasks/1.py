@@ -1,0 +1,9 @@
+def calc(a, b, symbol):
+    if symbol == '*':
+        return a * b
+    elif symbol == '/':
+        return a / b
+    elif symbol == '+':
+        return a + b
+    elif symbol == '-':
+        return a - b
